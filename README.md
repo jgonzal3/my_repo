@@ -5,6 +5,8 @@ Fake professor... just another IT support guy
 
 I did not know! but you are right!
 
+I will not remove the commnet becasue this guys is fake
+
 This is an example repo of a how to create a Data Science focused Python project.
 There is a screencast on this project setup here:
 
